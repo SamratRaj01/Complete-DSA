@@ -1,0 +1,32 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node / JS tooling
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
+
