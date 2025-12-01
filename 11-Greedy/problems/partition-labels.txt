@@ -1,0 +1,3 @@
+Pattern: Greedy partitioning based on last occurrence
+Problem: Partition Labels
+Explanation: Track the last index of each character, expanding the current partition until it safely ends.

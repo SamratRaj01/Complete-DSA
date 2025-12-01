@@ -1,0 +1,3 @@
+Pattern: Cycle Detection and Connected Components
+Level: Medium
+Explanation: Use DFS/BFS with visited tracking to find connected components and detect cycles in directed or undirected graphs.

@@ -1,0 +1,3 @@
+Pattern: Two Pointers (opposing ends)
+Problem: Valid Palindrome
+Explanation: Use left and right pointers moving toward the center, skipping non-alphanumeric characters, to check if a string reads the same forward and backward.

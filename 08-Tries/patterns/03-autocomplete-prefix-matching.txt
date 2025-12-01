@@ -1,0 +1,3 @@
+Pattern: Autocomplete & Prefix Matching
+Level: Medium-Hard
+Explanation: Traverse the trie down to a prefix node and then enumerate or prioritize completions stored below that node.

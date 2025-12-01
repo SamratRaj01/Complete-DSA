@@ -1,0 +1,3 @@
+Pattern: Heap (min-heap or max-heap)
+Problem: Kth Largest Element
+Explanation: Maintain a heap of size K or use a max-heap/partitioning approach to find the Kth largest value in near linear time.

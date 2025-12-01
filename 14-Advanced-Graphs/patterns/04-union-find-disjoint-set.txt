@@ -1,0 +1,3 @@
+Pattern: Union-Find (Disjoint Set Union)
+Level: Medium
+Explanation: Maintain disjoint sets with near-constant-time union and find operations to track connectivity and build minimum spanning trees.

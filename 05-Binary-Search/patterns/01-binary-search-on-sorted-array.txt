@@ -1,0 +1,3 @@
+Pattern: Binary Search on Sorted Array
+Level: Easy
+Explanation: Search for a target in a sorted array by repeatedly halving the search interval based on comparisons with the middle element.

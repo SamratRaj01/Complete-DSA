@@ -1,0 +1,3 @@
+Pattern: Greedy on sorted intervals
+Problem: Non-overlapping Intervals
+Explanation: Sort by end time and greedily select intervals, counting removals needed to avoid overlaps.

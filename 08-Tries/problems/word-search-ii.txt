@@ -1,0 +1,3 @@
+Pattern: Trie + Backtracking on grid
+Problem: Word Search II
+Explanation: Store words in a trie and DFS over the board, pruning paths early via trie lookup to efficiently find all valid words.

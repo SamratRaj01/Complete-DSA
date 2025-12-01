@@ -1,0 +1,3 @@
+Pattern: Graph traversal + hash map
+Problem: Clone Graph
+Explanation: Use DFS or BFS with a map from original node to cloned node to copy the entire graph structure.

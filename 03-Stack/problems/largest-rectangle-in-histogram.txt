@@ -1,0 +1,3 @@
+Pattern: Monotonic Stack (indices of bars)
+Problem: Largest Rectangle in Histogram
+Explanation: Keep an increasing stack of bar indices and compute maximal rectangle area whenever a bar breaks the increasing trend.

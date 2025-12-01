@@ -1,0 +1,3 @@
+Pattern: Math + cycle detection
+Problem: Happy Number
+Explanation: Repeatedly replace the number with the sum of squares of its digits and detect cycles using a set or fast/slow pointers.

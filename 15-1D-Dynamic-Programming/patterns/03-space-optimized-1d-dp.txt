@@ -1,0 +1,3 @@
+Pattern: Space-Optimized 1-D DP
+Level: Medium-Hard
+Explanation: Reduce memory by keeping only a small rolling window of states instead of the full dp array when dependencies are local.

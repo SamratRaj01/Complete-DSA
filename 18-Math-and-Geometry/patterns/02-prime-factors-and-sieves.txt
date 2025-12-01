@@ -1,0 +1,3 @@
+Pattern: Prime Factorization and Sieves
+Level: Medium
+Explanation: Factor numbers into primes and use sieve algorithms to precompute primes up to a limit for fast queries.

@@ -1,0 +1,3 @@
+Pattern: Sweep line / Min-heap on end times
+Problem: Meeting Rooms II
+Explanation: Track ongoing meetings using a min-heap of end times to find the minimum number of rooms required.

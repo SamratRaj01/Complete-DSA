@@ -1,0 +1,3 @@
+Pattern: Merge and Insert Intervals
+Level: Medium
+Explanation: Scan sorted intervals and combine overlapping ones, or insert new intervals while preserving ordering and merging.

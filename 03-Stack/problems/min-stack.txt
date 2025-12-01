@@ -1,0 +1,3 @@
+Pattern: Stack with auxiliary state
+Problem: Min Stack
+Explanation: Maintain an extra stack or embedded state to track the current minimum so you can return it in O(1) along with normal stack operations.

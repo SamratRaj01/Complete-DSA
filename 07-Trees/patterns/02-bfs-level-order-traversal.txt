@@ -1,0 +1,3 @@
+Pattern: BFS Level Order Traversal
+Level: Easy-Medium
+Explanation: Use a queue to visit nodes level by level, which is useful for problems involving distances or grouping by depth.

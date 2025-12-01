@@ -1,0 +1,3 @@
+Pattern: DFS Recursion on Tree
+Problem: Maximum Depth of Binary Tree
+Explanation: Recursively compute the depth of left and right subtrees and return the larger depth plus one for the current node.

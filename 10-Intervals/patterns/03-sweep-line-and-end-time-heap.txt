@@ -1,0 +1,3 @@
+Pattern: Sweep Line with End-Time Heap
+Level: Medium-Hard
+Explanation: Use a timeline sweep and a min-heap on interval end times to track how many intervals are active at once.

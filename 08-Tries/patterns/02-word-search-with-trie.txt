@@ -1,0 +1,3 @@
+Pattern: Word Search with Trie
+Level: Medium
+Explanation: Combine trie storage with DFS on a board to efficiently search for multiple words at once while pruning invalid paths.

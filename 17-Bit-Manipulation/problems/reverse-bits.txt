@@ -1,0 +1,3 @@
+Pattern: Bitwise shifting and masking
+Problem: Reverse Bits
+Explanation: Build the reversed bit pattern by shifting and OR-ing bits from the original number one by one.

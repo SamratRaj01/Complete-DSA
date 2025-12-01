@@ -1,0 +1,3 @@
+Pattern: Arrays & Hashing (hash map for value -> index lookup)
+Problem: Two Sum
+Explanation: Given an array and a target, find two indices whose values add up to the target using a single-pass hash map for O(n) time.

@@ -1,0 +1,3 @@
+Pattern: Proving Greedy Optimality
+Level: Medium-Hard
+Explanation: Learn to prove when a greedy strategy works (exchange arguments, staying ahead) and when counterexamples show it fails.

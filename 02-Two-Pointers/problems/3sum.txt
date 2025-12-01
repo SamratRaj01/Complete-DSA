@@ -1,0 +1,3 @@
+Pattern: Sorting + Two Pointers
+Problem: 3Sum
+Explanation: Sort the array, then fix one index and use a left/right pointer pair to find triplets that sum to zero while skipping duplicates.

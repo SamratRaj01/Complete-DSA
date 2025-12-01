@@ -1,0 +1,3 @@
+Pattern: Monotonic Stack
+Problem: Daily Temperatures
+Explanation: Use a decreasing stack of indices so each new temperature can resolve how many days it takes until a warmer temperature appears.

@@ -1,0 +1,3 @@
+Pattern: Hash Map + Heap/Bucket Sort
+Problem: Top K Frequent Elements
+Explanation: Count frequencies with a hash map, then use a heap or bucket sort on counts to extract the K most frequent values efficiently.

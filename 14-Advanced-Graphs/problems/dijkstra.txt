@@ -1,0 +1,3 @@
+Pattern: Dijkstra's Algorithm (shortest path)
+Problem: Dijkstra Implementation
+Explanation: Use a priority queue to always expand the closest unvisited node, relaxing edges to compute single-source shortest paths.

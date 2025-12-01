@@ -1,0 +1,3 @@
+Pattern: DFS (Pre-order, In-order, Post-order)
+Level: Easy
+Explanation: Traverse trees recursively in different orders to process nodes before, between, or after visiting their children.

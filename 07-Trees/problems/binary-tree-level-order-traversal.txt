@@ -1,0 +1,3 @@
+Pattern: BFS Level Order
+Problem: Binary Tree Level Order Traversal
+Explanation: Use a queue to traverse the tree level by level, collecting node values for each depth.

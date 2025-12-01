@@ -1,0 +1,3 @@
+Pattern: Merge Sorted Lists
+Level: Medium
+Explanation: Walk multiple sorted lists with pointers, repeatedly choosing the smallest head to build a new sorted list.

@@ -1,0 +1,3 @@
+Pattern: Backtracking (power set)
+Problem: Subsets
+Explanation: Recursively choose to include or exclude each element to generate all possible subsets.

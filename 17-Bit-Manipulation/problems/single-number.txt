@@ -1,0 +1,3 @@
+Pattern: XOR aggregation
+Problem: Single Number
+Explanation: XOR all numbers together so that pairs cancel out, leaving the unique element.

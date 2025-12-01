@@ -1,0 +1,3 @@
+Pattern: 2-D DP on two strings
+Problem: Longest Common Subsequence
+Explanation: Fill a 2-D table where each cell represents the LCS length of prefixes of the two strings.

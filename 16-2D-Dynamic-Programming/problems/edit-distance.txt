@@ -1,0 +1,3 @@
+Pattern: 2-D DP on string edits
+Problem: Edit Distance
+Explanation: Use a DP table where each cell stores the minimum operations needed to convert one prefix into another using insert, delete, and replace.

@@ -1,0 +1,3 @@
+Pattern: Opposing Pointers
+Level: Easy
+Explanation: Place pointers at the start and end of a sequence and move them toward each other to check conditions or optimize a value.

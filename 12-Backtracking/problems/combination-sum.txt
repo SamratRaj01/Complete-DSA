@@ -1,0 +1,3 @@
+Pattern: Backtracking with repetition allowed
+Problem: Combination Sum
+Explanation: Explore combinations by recursively picking candidates and backtracking when the running sum exceeds the target.

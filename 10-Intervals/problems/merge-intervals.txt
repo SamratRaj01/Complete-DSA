@@ -1,0 +1,3 @@
+Pattern: Sort + Merge Intervals
+Problem: Merge Intervals
+Explanation: Sort intervals by start time and merge overlapping ones by extending the current interval's end.

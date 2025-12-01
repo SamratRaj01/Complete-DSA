@@ -1,0 +1,3 @@
+Pattern: Graph Representation (Adjacency List / Matrix)
+Level: Easy
+Explanation: Model graphs using adjacency lists for sparse graphs or adjacency matrices for dense graphs to support efficient traversal.

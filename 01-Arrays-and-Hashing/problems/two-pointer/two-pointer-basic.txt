@@ -1,0 +1,3 @@
+Pattern: Two Pointers (opposing or sliding pointers)
+Problem: Two Pointer Basic
+Explanation: Practice moving two indices through an array/string in a coordinated way to shrink or expand a window based on a simple condition.

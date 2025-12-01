@@ -1,0 +1,3 @@
+Pattern: XOR Tricks and Parity
+Level: Medium
+Explanation: Use XOR to cancel pairs, detect odd occurrences, and compute parity or simple checksums efficiently.

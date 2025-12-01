@@ -1,0 +1,3 @@
+Pattern: Static vs Dynamic Arrays
+Level: Easy
+Explanation: Understand how fixed-size arrays differ from dynamic arrays (like vectors or ArrayLists), including memory layout, resizing costs, and when to choose each.

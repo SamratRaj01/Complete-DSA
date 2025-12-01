@@ -1,0 +1,3 @@
+Pattern: Monotonic Decreasing Stack
+Level: Medium-Hard
+Explanation: Maintain a stack in decreasing order to solve problems like temperatures, stock span, or maximum rectangles in histograms.

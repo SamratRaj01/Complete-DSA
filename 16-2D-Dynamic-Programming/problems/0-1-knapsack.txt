@@ -1,0 +1,3 @@
+Pattern: 2-D or optimized 1-D DP on capacity
+Problem: 0/1 Knapsack
+Explanation: Decide for each item and capacity whether to include the item, building up the best value subproblems.

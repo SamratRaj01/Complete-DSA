@@ -1,0 +1,3 @@
+Pattern: Prefix/State Transitions in 1-D DP
+Level: Medium
+Explanation: Let dp[i] represent the best or number of ways up to index i, transitioning from earlier indices based on problem rules.

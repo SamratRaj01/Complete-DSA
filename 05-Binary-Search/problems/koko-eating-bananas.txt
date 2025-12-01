@@ -1,0 +1,3 @@
+Pattern: Binary Search on Answer (parametric search)
+Problem: Koko Eating Bananas
+Explanation: Binary search over possible eating speeds and check feasibility for each speed to meet the time constraint.

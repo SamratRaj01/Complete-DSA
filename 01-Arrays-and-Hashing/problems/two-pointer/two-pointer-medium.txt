@@ -1,0 +1,3 @@
+Pattern: Two Pointers (more complex conditions)
+Problem: Two Pointer Medium
+Explanation: Apply two-pointer logic to trickier constraints, such as handling duplicates, sorted inputs, or in-place updates while preserving linear time.

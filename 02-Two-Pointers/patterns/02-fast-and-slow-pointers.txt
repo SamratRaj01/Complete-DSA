@@ -1,0 +1,3 @@
+Pattern: Fast & Slow Pointers
+Level: Medium
+Explanation: Move one pointer faster than the other to detect cycles, find middle elements, or compare distances in linked lists and arrays.

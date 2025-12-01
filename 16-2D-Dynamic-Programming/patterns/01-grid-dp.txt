@@ -1,0 +1,3 @@
+Pattern: Grid DP
+Level: Easy-Medium
+Explanation: Define dp[i][j] on grid cells and build solutions using transitions from neighboring cells like top and left.

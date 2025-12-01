@@ -1,0 +1,3 @@
+Pattern: Greedy with Sorting
+Level: Medium
+Explanation: Sort items by some key (like end time or ratio) and then apply a simple greedy rule over the sorted sequence.

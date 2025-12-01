@@ -1,0 +1,3 @@
+Pattern: Dynamic Sliding Window
+Problem: Longest Substring Without Repeating Characters
+Explanation: Expand a window with a right pointer and shrink from the left when duplicates appear, using a map/set to track characters in the window.

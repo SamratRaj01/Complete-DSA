@@ -1,0 +1,3 @@
+Pattern: Split + Reverse + Merge
+Problem: Reorder List
+Explanation: Find the middle of the list, reverse the second half, then weave nodes from the first and second halves alternately.

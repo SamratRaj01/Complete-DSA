@@ -1,0 +1,3 @@
+Pattern: MST (Kruskal or Prim)
+Problem: Minimum Spanning Tree (Kruskal/Prim)
+Explanation: Either sort edges and use union-find (Kruskal) or grow the tree from a start node using a priority queue (Prim).

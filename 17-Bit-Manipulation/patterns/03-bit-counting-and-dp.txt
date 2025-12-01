@@ -1,0 +1,3 @@
+Pattern: Bit Counting and DP on Bits
+Level: Medium-Hard
+Explanation: Combine bit operations with dynamic programming to count set bits or solve problems based on binary representation patterns.

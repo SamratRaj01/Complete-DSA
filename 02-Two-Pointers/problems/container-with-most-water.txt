@@ -1,0 +1,3 @@
+Pattern: Two Pointers (shrinking window on array ends)
+Problem: Container With Most Water
+Explanation: Start with pointers at both ends and move the shorter side inward, greedily discarding suboptimal containers to find the maximum area in O(n) time.

@@ -1,0 +1,3 @@
+Pattern: Dijkstra Shortest Path
+Level: Medium
+Explanation: Use a priority queue to repeatedly relax edges from the closest unvisited node in a weighted graph with non-negative weights.

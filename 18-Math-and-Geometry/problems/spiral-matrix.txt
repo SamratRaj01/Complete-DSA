@@ -1,0 +1,3 @@
+Pattern: Simulated traversal with boundaries
+Problem: Spiral Matrix
+Explanation: Traverse the matrix in layers (right, down, left, up) while shrinking the boundaries to cover all elements in spiral order.

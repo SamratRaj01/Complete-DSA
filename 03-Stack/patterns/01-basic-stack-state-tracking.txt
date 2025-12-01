@@ -1,0 +1,3 @@
+Pattern: Basic Stack for State Tracking
+Level: Easy
+Explanation: Push elements to remember previous state (like open brackets or function calls) and pop them as you resolve or backtrack.

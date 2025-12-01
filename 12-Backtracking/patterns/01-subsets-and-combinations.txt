@@ -1,0 +1,3 @@
+Pattern: Subsets and Combinations
+Level: Easy-Medium
+Explanation: Recursively build subsets or combinations by deciding for each element whether to include it, and backtrack after exploring each choice.

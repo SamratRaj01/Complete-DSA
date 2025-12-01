@@ -1,0 +1,3 @@
+Pattern: Dynamic Sliding Window with counts
+Problem: Minimum Window Substring
+Explanation: Grow and shrink a window while maintaining character counts to find the smallest substring that contains all characters of a target.

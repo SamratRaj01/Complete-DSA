@@ -1,0 +1,3 @@
+Pattern: Topological Sort and BFS Shortest Path
+Level: Medium-Hard
+Explanation: Order nodes in a DAG via topological sort to resolve dependencies and use BFS to find shortest paths in unweighted graphs.

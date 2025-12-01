@@ -1,0 +1,3 @@
+Pattern: Fast & Slow Cycle Detection
+Level: Medium
+Explanation: Use a slow pointer and a fast pointer to detect cycles and, with extra work, find the entry point of the cycle.

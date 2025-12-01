@@ -1,0 +1,3 @@
+Pattern: HashMap / HashSet Basics
+Level: Easy
+Explanation: Use hash-based maps and sets to store key-value pairs or unique values with average O(1) insert, lookup, and delete operations.

@@ -1,0 +1,3 @@
+Pattern: Greedy cumulative sum
+Problem: Gas Station
+Explanation: Use running totals of gas minus cost to determine if a full circuit is possible and where to start.

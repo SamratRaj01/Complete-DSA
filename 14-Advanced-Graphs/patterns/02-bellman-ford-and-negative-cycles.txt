@@ -1,0 +1,3 @@
+Pattern: Bellman-Ford and Negative Cycles
+Level: Medium-Hard
+Explanation: Repeatedly relax all edges to handle graphs with negative weights and detect negative cycles when distances keep improving.

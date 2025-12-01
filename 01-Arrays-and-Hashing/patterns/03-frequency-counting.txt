@@ -1,0 +1,3 @@
+Pattern: Frequency Counting with Hash Maps
+Level: Easy-Medium
+Explanation: Build a frequency map from values to counts to answer questions about duplicates, majority elements, or grouping items.

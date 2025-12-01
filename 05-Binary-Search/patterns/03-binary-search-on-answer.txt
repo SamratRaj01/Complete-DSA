@@ -1,0 +1,3 @@
+Pattern: Binary Search on Answer (Parametric Search)
+Level: Medium-Hard
+Explanation: Binary search over a range of possible answers, using a helper check function to determine if a candidate answer is feasible.

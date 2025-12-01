@@ -1,0 +1,3 @@
+Pattern: Stack for bracket matching
+Problem: Valid Parentheses
+Explanation: Push opening brackets onto a stack and pop when you see closing ones, ensuring correct type and order to validate the string.

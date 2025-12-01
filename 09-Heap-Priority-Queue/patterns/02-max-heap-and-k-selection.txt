@@ -1,0 +1,3 @@
+Pattern: Max-Heap and K-Selection
+Level: Medium
+Explanation: Use a max-heap or bounded-size min-heap to quickly find the k largest or k smallest elements in a collection.

@@ -1,0 +1,3 @@
+Pattern: 1-D DP / Recurrence
+Problem: Fibonacci (memoization and tabulation)
+Explanation: Use either top-down memoization or bottom-up tabulation to compute Fibonacci numbers in linear time.

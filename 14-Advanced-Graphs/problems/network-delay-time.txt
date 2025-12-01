@@ -1,0 +1,3 @@
+Pattern: Shortest path in weighted directed graph
+Problem: Network Delay Time
+Explanation: Use Dijkstra's algorithm to find how long it takes for a signal to reach all nodes from a starting node.

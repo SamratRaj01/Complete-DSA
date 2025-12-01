@@ -1,0 +1,3 @@
+Pattern: One-pass min tracking (window anchored at minimum)
+Problem: Best Time to Buy/Sell Stock
+Explanation: Track the minimum price so far and update the maximum profit as you scan prices once from left to right.

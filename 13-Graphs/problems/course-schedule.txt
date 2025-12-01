@@ -1,0 +1,3 @@
+Pattern: Topological Sort / Cycle Detection
+Problem: Course Schedule
+Explanation: Model prerequisites as a directed graph and use BFS (Kahn's algorithm) or DFS to detect cycles and determine if all courses can be finished.

@@ -1,0 +1,3 @@
+Pattern: In-place Reversal with Two Pointers
+Level: Medium-Hard
+Explanation: Use two pointers to reverse arrays or subarrays in place by swapping elements while moving the pointers inward.

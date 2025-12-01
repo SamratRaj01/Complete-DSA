@@ -1,0 +1,3 @@
+Pattern: Geometry and Matrix Operations
+Level: Medium-Hard
+Explanation: Work with coordinates, vectors, and matrices to perform transformations, rotations, and structured traversals like spirals.

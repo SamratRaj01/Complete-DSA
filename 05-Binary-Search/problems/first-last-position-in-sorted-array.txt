@@ -1,0 +1,3 @@
+Pattern: Boundary Binary Search
+Problem: First/Last Position in Sorted Array
+Explanation: Use modified binary search twice to find the leftmost and rightmost indices of a target in a sorted array.

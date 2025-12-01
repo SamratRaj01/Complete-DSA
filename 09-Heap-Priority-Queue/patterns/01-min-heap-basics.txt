@@ -1,0 +1,3 @@
+Pattern: Min-Heap Basics
+Level: Easy
+Explanation: Maintain a binary heap where the smallest element is at the root, allowing O(log n) insert and extract-min operations.

@@ -1,0 +1,3 @@
+Pattern: Classic Binary Search on sorted array
+Problem: Binary Search
+Explanation: Repeatedly halve the search space by comparing the middle element to the target in a sorted array until you find it or exhaust the range.

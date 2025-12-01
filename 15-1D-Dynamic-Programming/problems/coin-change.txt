@@ -1,0 +1,3 @@
+Pattern: 1-D DP on amount
+Problem: Coin Change
+Explanation: Build up the minimum number of coins (or number of ways) to reach each amount up to the target using smaller subproblems.

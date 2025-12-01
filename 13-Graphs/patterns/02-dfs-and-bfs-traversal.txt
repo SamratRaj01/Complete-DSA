@@ -1,0 +1,3 @@
+Pattern: DFS and BFS Traversal
+Level: Easy-Medium
+Explanation: Use DFS to explore as deep as possible along each branch and BFS to explore layer by layer from a starting node.

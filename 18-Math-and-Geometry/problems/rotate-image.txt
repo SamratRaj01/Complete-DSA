@@ -1,0 +1,3 @@
+Pattern: Matrix rotation / layer-by-layer swap
+Problem: Rotate Image
+Explanation: Rotate an n x n matrix in place by transposing and then reversing rows, or by rotating four cells at a time.

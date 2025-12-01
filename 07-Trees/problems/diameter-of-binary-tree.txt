@@ -1,0 +1,3 @@
+Pattern: DFS with extra state
+Problem: Diameter of Binary Tree
+Explanation: At each node, compute path length through that node (left depth + right depth) while tracking a global maximum diameter.

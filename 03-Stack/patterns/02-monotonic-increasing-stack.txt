@@ -1,0 +1,3 @@
+Pattern: Monotonic Increasing Stack
+Level: Medium
+Explanation: Maintain a stack where elements are in increasing order to efficiently find next greater elements or process ranges.

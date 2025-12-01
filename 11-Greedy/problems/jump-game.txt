@@ -1,0 +1,3 @@
+Pattern: Greedy reach tracking
+Problem: Jump Game
+Explanation: Track the furthest reachable index as you iterate and ensure you never get stuck before the last index.
