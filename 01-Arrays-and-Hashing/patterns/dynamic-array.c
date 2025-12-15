@@ -64,12 +64,28 @@ int main()
     append(arr, 10);
     append(arr, 20);
     append(arr, 30); //triggers resize
+
+    for(int i = 0; i < arr->size; i++) {
+        printf("%d ", arr->data[i]);
+    }
+    
+    printf("\n");
     
     printf("Array size: %zu, capacity: %zu\n", arr->size, arr->capacity);
     
     pop(arr);
-    printf("Array size after pop: %zu, capacity: %zu\n", arr->size, arr->capacity);
+
     
+    
+
+    printf("Array size after pop: %zu, capacity: %zu\n", arr->size, arr->capacity);
+
+    for(int i = 0; i < arr->size; i++) {
+        printf("%d ", arr->data[i]);
+    }
+
+    printf("\n");
+
     freeArray(arr);
     return 0;
 }
