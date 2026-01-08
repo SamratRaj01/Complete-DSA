@@ -94,3 +94,101 @@ void instertAtPosition(struct Node** head , int data , int position)
 
     temp->next = newNode;
 }
+
+void deleteAtStart(struct Node** head)
+{
+    if(*head == NULL)
+    {
+        printf("List is empty.\n");
+        return;
+    }
+
+    struct Node* temp = *head;
+
+    *head = temp->next;
+    
+    if(*head != NULL)
+    {
+        (*head)->prev = NULL;
+    }
+    
+    free(temp);
+}
+
+void deleteAtEnd(struct Node** head)
+{
+    if(*head == NULL)
+    {
+        printf("The list is empty!!! \n");
+        return;
+    }
+
+    struct  Node * temp = *head;
+
+    //If there is only one Node
+    if(temp->next == NULL)
+    {
+        free(temp);
+        *head = NULL;
+        return;
+    }
+
+    // Move to the last Node
+    while(temp->next != NULL)
+    {
+        temp = temp->next;
+    }
+
+    temp->prev->next = NULL;
+
+    free(temp);
+
+    
+};
+
+void deleteAtPosition(struct  Node** head , int position)
+{
+    if(position < 0)
+    {
+        printf("Invalid Position \n");
+        return;
+    }
+
+    // Deleting first node
+    if(position == 0)
+    {
+        deleteAtStart(head);
+        return;
+    }
+
+    struct  Node * temp = *head;
+    
+
+    // Move to the node at `position`
+    for(int i = 0 ; i < position && temp != NULL ; i++)
+    {
+        temp = temp->next;
+    }
+
+    // Edge case for out of bounds
+    if(temp == NULL)
+    {
+        printf("Position Out Of Bounds \n");
+        return;
+    }
+
+    // If deleting last node
+    if(temp -> next == NULL)
+    {
+        temp->prev->next = NULL;
+        free(temp);
+        return;
+    }
+
+    // Deleting a in-between node (between start and end)
+    temp->prev->next = temp->next;
+    temp->next->prev = temp->prev;
+    free(temp);
+
+};
+
